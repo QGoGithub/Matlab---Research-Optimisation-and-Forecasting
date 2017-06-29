@@ -1,4 +1,4 @@
-# Matlab
+# Useful Matlab files
 A repository of useful Matlab programmes/ functions
 
 
