@@ -8,3 +8,5 @@ algos repository.
 
 
 1. Black Scholes Option Pricing
+2. Quanto Option Pricing
+3. American Put Option Pricing - Finite Differences (Explicit)
