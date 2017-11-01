@@ -1,5 +1,13 @@
-# Useful Matlab files
-A repository of useful Matlab programmes/ functions
+# Matlab - Quant Research
+
+A repository of useful Matlab tools designed to  
+   1.  price various financial instruments
+   2.  exploratory data analytics:
+            clean data
+              manipulate data into useful formats
+                identify patterns in the data 
+                  forecast future outcomes with identified likelihoods
+                  
 
 
 This repository contains useful general Matlab functions. 
