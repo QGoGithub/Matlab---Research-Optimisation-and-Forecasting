@@ -1,4 +1,4 @@
-# Matlab - Quant Research
+# Matlab - Quant Research - Market Modelling, Asset Pricing, Exploratory Data Analysis
 
 A repository of useful Matlab tools designed to  
    1.  price various financial instruments
